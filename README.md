@@ -85,7 +85,7 @@ You can specific the checkpoint in evaluation or testing by using
 If you find our work useful in your research, please consider citing:
 ```latex
 @inproceedings{yan2021sensaturbansol,
-  title={SensatUrban 2st Solution},
+  title={SensatUrban 2nd Solution},
   author={Xu Yan},
   booktitle={https://github.com/yanx27/SensatUrban_sol_tf},
   year={2021}
