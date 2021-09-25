@@ -70,7 +70,6 @@ python function/test_sensaturban.py  --load_path [YOUR_MODEL_PATH]  --cfg cfgs/s
 * Submit the results to the [evaluation server](https://competitions.codalab.org/competitions/31519#participate-submit_results). 
 
 ### Pre-trained model
-### Pre-trained model
 We currently release a checkpoints with about 66% mIoU, and more powerful checkpoints will be released in the future.
 | Input | mIoU | Accuracy | Checkpoints
 |--|--|--|--|
