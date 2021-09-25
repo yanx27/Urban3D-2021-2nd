@@ -70,14 +70,15 @@ python function/test_sensaturban.py  --load_path [YOUR_MODEL_PATH]  --cfg cfgs/s
 * Submit the results to the [evaluation server](https://competitions.codalab.org/competitions/31519#participate-submit_results). 
 
 ### Pre-trained model
-We currently release a checkpoints with about 66% mIoU in `./log/default_checkpoints/`, and more powerful checkpoints will be released in the future.
+### Pre-trained model
+We currently release a checkpoints with about 66% mIoU, and more powerful checkpoints will be released in the future.
 | Input | mIoU | Accuracy | Checkpoints
 |--|--|--|--|
-| xyz+rgb |  65.8  | 94.0 |  `./log/default_checkpoints/`
+| xyz+rgb |  65.8  | 94.0 |  [BaiduNetdisk:1wt2](https://pan.baidu.com/s/1euERq2sYKQu3si5rAs_sMw)
 
 You can specific the checkpoint in evaluation or testing by using
 ```shell
---load_path ./log/default_checkpoints/model.ckpt-600 
+--load_path [CHECKPOINTS_PATH]/model.ckpt-600 
 ```
 
 ## Citation
