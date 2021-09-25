@@ -24,7 +24,7 @@ sh init.sh
 
 (2) Preparing the dataset
 ```
-python prepare_data.py --dataset_path $YOURPATH
+python datasets/prepare_data.py --dataset_path $YOURPATH
 cd $YOURPATH; 
 cd ../; mkdir original_block_ply; mv data_release/train/* original_block_ply; mv data_release/test/* original_block_ply;
 mv data_release/grid* ./
