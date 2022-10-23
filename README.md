@@ -1,7 +1,13 @@
-# SensatUrban 2nd Solution
-This repository is for the **runner up** solution for the ICCV 2021 workshop challenge [SensatUrban](https://competitions.codalab.org/competitions/31519#participate-submit_results). 
+# 2nd Solution for Urban3D@ICCV2021 
+This repository is for the **runner up** solution for the challenge [Urban3D@ICCV2021](https://competitions.codalab.org/competitions/31519#participate-submit_results). 
 
 ![](img/snapshot20210923.png)
+
+
+# News
+* We achieve the **3rd place** in Urban3D@ECCV2022！**The 1st solution also uses this codebase**!
+![](img/snapshot20221010.jpg)
+![](img/1st_slides.jpg)
 
 ## Getting Started
 
@@ -83,10 +89,10 @@ You can specific the checkpoint in evaluation or testing by using
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```latex
-@inproceedings{yan2021sensaturbansol,
-  title={SensatUrban 2nd Solution},
+@inproceedings{yan2021urban3d,
+  title={Urban3D-2021-2rd},
   author={Xu Yan},
-  booktitle={https://github.com/yanx27/SensatUrban_sol_tf},
+  booktitle={https://github.com/yanx27/Urban3D-2021-2nd},
   year={2021}
 }
 ```
