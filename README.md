@@ -5,7 +5,7 @@ This repository is for the **runner up** solution for the challenge [Urban3D@ICC
 
 
 # News
-* We achieve the **3rd place** in Urban3D@ECCV2022！**The 1st solution also uses this codebase**!
+* We achieve the **3rd place** in [Urban3D@ECCV2022](https://codalab.lisn.upsaclay.fr/competitions/7113#results)！**The 1st solution also uses this codebase**!
 ![](img/snapshot20221010.jpg)
 ![](img/1st_slides.jpg)
 
